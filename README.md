@@ -1,4 +1,4 @@
-# Prework - *Name of App Here*
+# Prework - *Color Swap*
 
 Submitted by: **Mario Barraza**
 
@@ -14,11 +14,7 @@ The following **required** functionality is completed:
 - [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
-
+(https://www.loom.com/share/03b1bea19a1542dda43028715a8f01e2)
 
 ## App Brainstorming (Step 4)
 
