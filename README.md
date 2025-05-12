@@ -18,9 +18,31 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
 
+Make a list of your favorite 3-5 applications and identify 2-3 features that make them your favorite app. It's okay if features repeat on different apps
+Example App: Instagram
+Changing the background color of the messages screen
+Deleting old messages
+
+**TikTok**
+Reposting
+Audio use with no copyright
+
+**MyFitnessPal**
+Barcode scanning for nutrition facts
+Water intake tracker
+
+**Apple Music**
+Seamless conncection to apple HomePod
+Lyrics 
+
+**An app I'd like to build** is a film roll tracking app. 
+It would keep track of the film roll type you are using, the iso, total exposures + remaining exposures, "metadata" of your film camera (SS speed, ISO used, aperature, lens used, camera info). The metadata will be linked to the film rolls and upon development one can add their digitized film pictures to their app to associate it with roll (hosting cost $ so can be paid feature)
+
+
+
 ## Notes
 
-Finding where all the menus are at. 
+Finding where all the menus are at was most difficult. 
 
 ## License
 
